@@ -15,4 +15,7 @@ Controls
 Gaze: Use your gaze to aim and shoot zombies.
 Look: Look downwards to move.
 
-<p align="center"> <video src="ZombieShooterGameVR/Assets/gameplay.mp4" width="500px"> 
+
+
+https://github.com/user-attachments/assets/1fc55bbf-4630-4ffc-adaa-decfe372feb4
+
