@@ -14,3 +14,5 @@ Look-Based Movement: To navigate the environment, look downwards in the directio
 Controls
 Gaze: Use your gaze to aim and shoot zombies.
 Look: Look downwards to move.
+
+<p align="center"> <video src="ZombieShooterGameVR/Assets/gameplay.mp4" width="500px"> 
