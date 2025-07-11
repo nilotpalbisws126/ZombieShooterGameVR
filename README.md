@@ -1,23 +1,39 @@
-Zombie Shooter VR
+# 🧟‍♂️ Zombie Shooter VR
 
-Overview:
-This is a VR game designed for Google Cardboard. It's a simple yet engaging game where you, the player, kill the zombies coming towards you.
+A lightweight, **Google Cardboard–ready** VR game in which you fend off waves of zombies using nothing but your gaze. Point, shoot, survive—no external controller required.
 
-Gameplay
+---
 
-Shooting Zombies:
+## 🎮 Gameplay
 
-Gaze-Based Shooting: To shoot a zombie, simply gaze at its head. The gun will automatically fire a bullet.
-Navigation:
+| Action | How it Works |
+|--------|--------------|
+| **Shoot** | Center your gaze on a zombie’s **head**. The gun auto-fires a single round. |
+| **Move**  | Tilt your head **downward** and look in the direction you wish to walk. |
 
-Look-Based Movement: To navigate the environment, look downwards in the direction you want to move.
-Controls
-Gaze: Use your gaze to aim and shoot zombies.
-Look: Look downwards to move.
+The goal is simple: stay alive for as many waves as possible!
 
+---
 
+## ✨ Features
 
+- **Gaze-based targeting** – intuitive for Cardboard users  
+- **Head-tilt locomotion** – no buttons or controllers needed  
+- Minimalist graphics for smooth performance on entry-level phones  
+- Spatial audio cues so you can hear approaching threats  
 
+---
+
+## 📷 Screen Record
 
 https://github.com/user-attachments/assets/96e208a7-953d-4418-a352-9fe7dd3e92a9
 
+*(More screenshots and gameplay GIFs welcome—feel free to submit a PR!)*
+
+---
+
+## 📦 Installation
+
+1. Clone the repo or download the ZIP.  
+   ```bash
+   git clone https://github.com/<your-username>/zombie-shooter-vr.git
