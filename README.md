@@ -28,7 +28,7 @@ The goal is simple: stay alive for as many waves as possible!
 
 https://github.com/user-attachments/assets/96e208a7-953d-4418-a352-9fe7dd3e92a9
 
-*(More screenshots and gameplay GIFs welcome—feel free to submit a PR!)*
+
 
 ---
 
